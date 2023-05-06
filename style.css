@@ -1,0 +1,128 @@
+/* Global styles */
+
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #2e3440;
+    color: #d8dee9;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    margin: 0;
+    padding: 2rem;
+    background-color: #3b4252;
+    color: #eceff4;
+  }
+  
+  /* Wallpaper group styles */
+  
+  .wallpaper-groups {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 2rem;
+  }
+  
+  .wallpaper-group {
+    width: 100%;
+    max-width: 800px;
+    margin: 2rem;
+    background-color: #4c566a;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    box-shadow: 0 0.25rem 1rem rgba(0, 0, 0, 0.2);
+  }
+  
+  .wallpaper-group h2 {
+    font-size: 2rem;
+    margin: 0;
+    padding: 1rem 2rem;
+    background-color: #434c5e;
+    color: #eceff4;
+  }
+  
+  .wallpaper-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 2rem;
+  }
+  
+  .wallpaper-item {
+    width: calc(33.33% - 2rem);
+    margin: 1rem;
+    background-color: #5e81ac;
+    border-radius: 0.25rem;
+    overflow: hidden;
+    box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.2);
+    min-height: auto;
+  }
+  
+  .wallpaper-item img {
+    width: 100%;
+    max-height: 125px;
+    object-fit: cover;
+  }
+  
+  .wallpaper-item span {
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+    font-size: 1.2rem;
+    text-align: center;
+    color: #eceff4;
+  }
+  
+  .wallpaper-item a {
+    text-decoration: none;
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+    font-size: 1.1rem;
+    text-align: center;
+    color: #eceff4;
+    background-color: #434c5e;
+    border-radius: 0.25rem;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .wallpaper-item a:hover {
+    background-color: #4c566a;
+  }
+  
+/* Search bar styles */
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+  }
+  
+  #search-input {
+    width: 80%;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 0.25rem;
+    font-size: 1.1rem;
+    margin-right: 1rem;
+  }
+  
+  #search-button {
+    padding: 0.5rem 1rem;
+    background-color: #5e81ac;
+    color: #eceff4;
+    border: none;
+    border-radius: 0.25rem;
+    font-size: 1.1rem;
+    cursor: pointer;
+  }
+  
+  #search-button:hover {
+    background-color: #4c566a;
+  }
+  

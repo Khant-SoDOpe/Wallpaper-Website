@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Nature",
+    "wallpapers": [
+      {
+        "title": "Sunset over the mountains",
+        "image": "https://i.pinimg.com/564x/3b/ae/2c/3bae2c6845352e627516a529fd507ffb.jpg",
+        "download": "https://example.com/nature/sunset.jpg"
+      },
+      {
+        "title": "Waterfall in the forest",
+        "image": "https://i.pinimg.com/564x/3b/ae/2c/3bae2c6845352e627516a529fd507ffb.jpg",
+        "download": "https://example.com/nature/waterfall.jpg"
+      },
+      {
+        "title": "Field of flowers",
+        "image": "https://i.pinimg.com/564x/3b/ae/2c/3bae2c6845352e627516a529fd507ffb.jpg",
+        "download": "https://example.com/nature/flowers.jpg"
+      },
+      {
+        "title": "Field of flowers",
+        "image": "https://i.pinimg.com/564x/3b/ae/2c/3bae2c6845352e627516a529fd507ffb.jpg",
+        "download": "https://example.com/nature/flowers.jpg"
+      },
+      {
+        "title": "Field of flowers",
+        "image": "https://i.pinimg.com/564x/3b/ae/2c/3bae2c6845352e627516a529fd507ffb.jpg",
+        "download": "https://example.com/nature/flowers.jpg"
+      },
+      {
+        "title": "Field of flowers",
+        "image": "https://i.pinimg.com/564x/3b/ae/2c/3bae2c6845352e627516a529fd507ffb.jpg",
+        "download": "https://example.com/nature/flowers.jpg"
+      },
+      {
+        "title": "Field of flowers",
+        "image": "https://i.pinimg.com/564x/3b/ae/2c/3bae2c6845352e627516a529fd507ffb.jpg",
+        "download": "https://example.com/nature/flowers.jpg"
+      },
+      {
+        "title": "Field of flowers",
+        "image": "https://i.pinimg.com/564x/3b/ae/2c/3bae2c6845352e627516a529fd507ffb.jpg",
+        "download": "https://example.com/nature/flowers.jpg"
+      },
+      {
+        "title": "Field of flowers",
+        "image": "https://i.pinimg.com/564x/3b/ae/2c/3bae2c6845352e627516a529fd507ffb.jpg",
+        "download": "https://example.com/nature/flowers.jpg"
+      },
+      {
+        "title": "Field of flowers",
+        "image": "https://i.pinimg.com/564x/3b/ae/2c/3bae2c6845352e627516a529fd507ffb.jpg",
+        "download": "https://example.com/nature/flowers.jpg"
+      },
+      {
+        "title": "Field of flowers",
+        "image": "https://i.pinimg.com/564x/3b/ae/2c/3bae2c6845352e627516a529fd507ffb.jpg",
+        "download": "https://example.com/nature/flowers.jpg"
+      },
+      {
+        "title": "Field of flowers",
+        "image": "https://i.pinimg.com/564x/3b/ae/2c/3bae2c6845352e627516a529fd507ffb.jpg",
+        "download": "https://example.com/nature/flowers.jpg"
+      },
+      {
+        "title": "Field of flowers",
+        "image": "https://i.pinimg.com/564x/3b/ae/2c/3bae2c6845352e627516a529fd507ffb.jpg",
+        "download": "https://example.com/nature/flowers.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Cities",
+    "wallpapers": [
+      {
+        "title": "New York skyline",
+        "image": "https://i.pinimg.com/564x/98/4a/a1/984aa1708a8304e958360c6275712a1d.jpg",
+        "download": "https://example.com/cities/new-york.jpg"
+      },
+      {
+        "title": "Paris at night",
+        "image": "https://i.pinimg.com/236x/46/9e/5c/469e5c841f94c64938e8af467d80b4f8.jpg",
+        "download": "https://example.com/cities/paris.jpg"
+      },
+      {
+        "title": "Tokyo cityscape",
+        "image": "https://example.com/cities/tokyo.jpg",
+        "download": "https://example.com/cities/tokyo.jpg"
+      },
+      {
+        "title": "Field of flowers",
+        "image": "https://i.pinimg.com/564x/3b/ae/2c/3bae2c6845352e627516a529fd507ffb.jpg",
+        "download": "https://example.com/nature/flowers.jpg"
+      }
+    ]
+  }
+]
